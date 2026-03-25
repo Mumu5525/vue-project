@@ -6,20 +6,20 @@ const albums = [
   {
     id: 1,
     title: 'HIT ME HARD AND SOFT',
-    info: '“碧梨”Billie Eilish第三张录音室专辑《HIT ME HARD AND SOFT》正式全球发行，主打曲目为《LUNCH》！作为Billie Eilish的第三张录音室专辑，这张备受“碧梨”所珍爱的全新专辑依旧由Billie Eilish与FINNEAS联袂创作呈现，FINNEAS担纲专辑制作，共收录10首曲目。从首张专辑《WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?》光怪陆离的暗黑宇宙到《Happier Than Ever》中高亢而激烈的人声演绎，Billie Eilish将《HIT ME HARD AND SOFT》视为重返自我的本真之旅。“我享受当事物变得激烈之时的刺激爽快感，也喜欢被温柔以待时的甜蜜。我想要在其间寻觅两者兼得的模式，尽管这在现实生活中往往难以被达成”，Billie Eilish如此介绍新专辑《HIT ME HARD AND SOFT》。《HIT ME HARD AND SOFT》涵盖一系列多样化的听感歌曲，同时在曲序编排上保持极强的统一性，是一张值得从头到尾完整聆听的专辑力作。',
-    cover: 'public/1.webp'
+    info: '"碧梨"Billie Eilish第三张录音室专辑《HIT ME HARD AND SOFT》正式全球发行，主打曲目为《LUNCH》！作为Billie Eilish的第三张录音室专辑，这张备受"碧梨"所珍爱的全新专辑依旧由Billie Eilish与FINNEAS联袂创作呈现，FINNEAS担纲专辑制作，共收录10首曲目。从首张专辑《WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?》光怪陆离的暗黑宇宙到《Happier Than Ever》中高亢而激烈的人声演绎，Billie Eilish将《HIT ME HARD AND SOFT》视为重返自我的本真之旅。"我享受当事物变得激烈之时的刺激爽快感，也喜欢被温柔以待时的甜蜜。我想要在其间寻觅两者兼得的模式，尽管这在现实生活中往往难以被达成"，Billie Eilish如此介绍新专辑《HIT ME HARD AND SOFT》。《HIT ME HARD AND SOFT》涵盖一系列多样化的听感歌曲，同时在曲序编排上保持极强的统一性，是一张值得从头到尾完整聆听的专辑力作。',
+    cover: '/1.webp'
   },
   {
     id: 2,
     title: 'Happier Than Ever',
-    info: 'Billie Eilish全新佳作的个人第二张录音室专辑--《Happier Than Ever》，于2021年7月30日正式完整释出。继荣获多项格莱美奖项肯定、打破无数纪录的首张个人专辑《WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?》后，《Happier Than Ever》依旧凭借兄妹二人实力“独挑大梁”完成，由19岁的Billie Eilish担纲创作，哥哥FINNEAS挎刀制作。自出道单曲《ocean eyes》发布以来，Billie Eilish迅速成为令全球乐坛瞩目的未来之星，不断以极具个人特色的独特音乐风格打破流行乐的种种束缚与限制。自2015年脱颖而出后不久，Billie的首张个人录音室专辑《WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?》在2019年势如破竹般地空降美国公告牌专辑榜与其他17个地区的专辑榜冠军，同时也成为了此年度收获最多流媒体播放量的专辑。《WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?》完全由Billie与她的哥哥FINNEAS二人在洛杉矶的家中完成专辑中的歌曲谱写、录音以及制作过程。此后， Billie Eilish持续创造并刷新着乐坛历史纪录.',
-    cover: 'public/2.webp'
+    info: 'Billie Eilish全新佳作的个人第二张录音室专辑--《Happier Than Ever》，于2021年7月30日正式完整释出。继荣获多项格莱美奖项肯定、打破无数纪录的首张个人专辑《WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?》后，《Happier Than Ever》依旧凭借兄妹二人实力"独挑大梁"完成，由19岁的Billie Eilish担纲创作，哥哥FINNEAS挎刀制作。自出道单曲《ocean eyes》发布以来，Billie Eilish迅速成为令全球乐坛瞩目的未来之星，不断以极具个人特色的独特音乐风格打破流行乐的种种束缚与限制。自2015年脱颖而出后不久，Billie的首张个人录音室专辑《WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?》在2019年势如破竹般地空降美国公告牌专辑榜与其他17个地区的专辑榜冠军，同时也成为了此年度收获最多流媒体播放量的专辑。《WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?》完全由Billie与她的哥哥FINNEAS二人在洛杉矶的家中完成专辑中的歌曲谱写、录音以及制作过程。此后， Billie Eilish持续创造并刷新着乐坛历史纪录.',
+    cover: '/2.webp'
   },
   {
     id: 3,
     title: 'WHEN WE AL FALL ASLEEP, WHERE DO WE GO?',
-    info: '年仅17岁即成为全球最耀眼的流量偶像，唱作新天后Billie Eilish终于发布了她的个人首张录音室专辑《WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?》。Billie Eilish迅速成为全球巨星可谓是现象级的，这样的成就迄今止也是无与伦比的。自从首发单曲“Ocean Eyes”问世以来，Billie已悄然步入了流行乐坛的前沿。归功于全球越来越多的忠实乐迷，她2017年发行的首张EP《Don\'t Smile at Me》至今一年半的时间过去了，却仍然在Billboard Hot 200专辑榜占据一席之地，并且在全球狂揽50亿试听总量。她的巡演更是在全球热卖到屡屡售罄。她被殿堂级的摇滚乐队Nirvana鼓手Dave Grohl盛赞”宛如新时代的Nirvana”,在Billie的首张专辑中,充满了奇思妙想.',
-    cover: 'public/3.webp'
+    info: '年仅17岁即成为全球最耀眼的流量偶像，唱作新天后Billie Eilish终于发布了她的个人首张录音室专辑《WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?》。Billie Eilish迅速成为全球巨星可谓是现象级的，这样的成就迄今止也是无与伦比的。自从首发单曲"Ocean Eyes"问世以来，Billie已悄然步入了流行乐坛的前沿。归功于全球越来越多的忠实乐迷，她2017年发行的首张EP《Don\'t Smile at Me》至今一年半的时间过去了，却仍然在Billboard Hot 200专辑榜占据一席之地，并且在全球狂揽50亿试听总量。她的巡演更是在全球热卖到屡屡售罄。她被殿堂级的摇滚乐队Nirvana鼓手Dave Grohl盛赞"宛如新时代的Nirvana",在Billie的首张专辑中,充满了奇思妙想.',
+    cover: '/3.webp'
   }
 ];
 
@@ -66,14 +66,14 @@ const handleVolumeChange = () => {
 // 歌手信息
 const singerInfo = {
   name: 'Billie Eilish',
-  bio: 'Billie Eilish Pirate Baird O\'Connell 是一位美国创作歌手，以其独特的音乐风格和视觉形象而闻名。她于2015年凭借歌曲《Ocean Eyes》首次亮相，并迅速成为全球知名的艺术家。她的音乐融合了流行、电子和另类R&B元素，歌词常常探讨心理健康、成长和社会问题等主题。至今，比莉·艾利什共获得2项奥斯卡金像奖、10项格莱美奖，成为最年轻包揽格莱美奖四个通类奖项的艺人。她还曾入选《时代周刊》“全球最具影响力百人榜”，并被BBC评为“全球100位最具影响力女性”。作为第一位两次获得Apple music年度艺人的歌手，比莉·艾利什的音乐才华和影响力不容小觑。2024年5月发行的新专辑《HIT ME HARD AND SOFT》在全球 138个国家和地区的全类型专辑排行第1。2026年，其演唱的歌曲《WILDFLOWER》获得第68届格莱美奖年度歌曲。再次证明她的音乐实力。',
-  image: 'public/BillieEilish.webp'
+  bio: 'Billie Eilish Pirate Baird O\'Connell 是一位美国创作歌手，以其独特的音乐风格和视觉形象而闻名。她于2015年凭借歌曲《Ocean Eyes》首次亮相，并迅速成为全球知名的艺术家。她的音乐融合了流行、电子和另类R&B元素，歌词常常探讨心理健康、成长和社会问题等主题。至今，比莉·艾利什共获得2项奥斯卡金像奖、10项格莱美奖，成为最年轻包揽格莱美奖四个通类奖项的艺人。她还曾入选《时代周刊》"全球最具影响力百人榜"，并被BBC评为"全球100位最具影响力女性"。作为第一位两次获得Apple music年度艺人的歌手，比莉·艾利什的音乐才华和影响力不容小觑。2024年5月发行的新专辑《HIT ME HARD AND SOFT》在全球 138个国家和地区的全类型专辑排行第1。2026年，其演唱的歌曲《WILDFLOWER》获得第68届格莱美奖年度歌曲。再次证明她的音乐实力。',
+  image: '/BillieEilish.webp'
 };
 
 const songInfo = {
   name: 'BIRDS OF A FEATHER',
-  image: 'public/BIRDS_OF_A_FEATHER.webp',
-  audio: '/public/BIRDS_OF_A_FEATHER.mp3'
+  image: '/BIRDS_OF_A_FEATHER.webp',
+  audio: '/BIRDS_OF_A_FEATHER.mp3'
 }
 </script>
 
